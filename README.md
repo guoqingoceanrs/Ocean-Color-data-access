@@ -1,2 +1,2 @@
-# OB.DAAC
-This repository stores all the user history code for OB.DAAC. All the sample python scripts for reading, displaying, and analyzing L2 and L3 data will be explained and provided
+# Ocean Color data access
+This repository contains code, tutorials, and example Python scripts for working with NASA OB.DAAC ocean color data. It provides step-by-step examples for accessing, reading, visualizing, and analyzing Level-2 (L2) and Level-3 (L3) datasets.
